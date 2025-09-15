@@ -67,7 +67,8 @@ OneAPI，提供：Douyin（抖音）、Xiaohongshu（小红书）、Kuaishou（�
 ### Bilibili/哔哩哔哩
 
 - 用户信息
-- 用户主页作品列表
+- 用户所有动态
+- 用户投稿的视频列表
 - 作品详情
 - 作品评论
 - 搜索数据
