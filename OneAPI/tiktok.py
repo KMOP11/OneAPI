@@ -16,6 +16,7 @@ def video_list():
     data = json.loads(data)
     video_id = data['id']
     except Exception as e:
+        
            return {
                  'code': 0,
                  'data': str(e)
