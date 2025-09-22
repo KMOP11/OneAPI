@@ -25,7 +25,7 @@ def video_list():
 @app.route('/user/profile', methods=['POST'])
 def get_user():
     data = request.get_data(as_text=True)
-    data = json.loads(data)
+    data = json.loads(data) 
     user_id = data['id']
     except Exception as e:
            return {
